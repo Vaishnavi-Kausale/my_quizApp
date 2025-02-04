@@ -31,7 +31,7 @@ class StartScreen extends StatelessWidget {
               foregroundColor: Colors.white,
             ),
           icon: const Icon(Icons.arrow_right_alt, color: Colors.white,),
-          label: const Text('Strat Quiz'))
+          label: const Text('Start Quiz'))
         ],
       ),
     );
